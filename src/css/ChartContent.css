@@ -1,0 +1,14 @@
+.chart-main{
+    width: 35%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px !important;
+}
+
+.chart-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2%;
+}
+.chart-line{
+    width: 60%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px !important;
+}

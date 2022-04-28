@@ -1,0 +1,25 @@
+.stats-main{
+    width: 31%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px !important;
+    position: relative; 
+    padding: 0 1rem;
+}
+
+.stats-cards{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stats{
+    margin: 2% 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.stats-growth{
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0;
+}
